@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuToday</string>
+    <string name="menuToday">Find Out\nWhat\'s on the\nMenu Today</string>
+    <string name="Description">Hungry?\nOrder delicious meals\nfrom your cafeteria now\nright from your smartphone.</string>
+</resources>

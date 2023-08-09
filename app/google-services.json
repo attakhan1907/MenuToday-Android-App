@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96555965975",
+    "project_id": "menutoday-ebf76",
+    "storage_bucket": "menutoday-ebf76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96555965975:android:d13bc5c0f524422a808652",
+        "android_client_info": {
+          "package_name": "com.example.menutoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96555965975-prg68gonbf0kc5oc2uda92pb3onkl3kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowKHOMRrPXAeHBkglRi0RphrtJ3x-i1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96555965975-prg68gonbf0kc5oc2uda92pb3onkl3kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
